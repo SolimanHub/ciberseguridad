@@ -79,17 +79,17 @@
 
   ##### 		Inyección SQL
 
-​		La inyección SQL es un tipo de ataque en el que un atacante injecta comandos SQL malintencionados en una aplicación web que se comunica con una base de datos. Esto puede permitir al atacante acceder a información confidencial o manipular datos en la base de datos.
+La inyección SQL es un tipo de ataque en el que un atacante injecta comandos SQL malintencionados en una aplicación web que se comunica con una base de datos. Esto puede permitir al atacante acceder a información confidencial o manipular datos en la base de datos.
 
-​		Para proteger contra la inyección SQL, es importante validar y escapar todas las entradas de usuario antes de usarlas en una consulta SQL. También es recomendable utilizar consultas preparadas o sentencias parametrizadas en lugar de concatenar entradas de usuario directamente en una consulta SQL.
+Para proteger contra la inyección SQL, es importante validar y escapar todas las entradas de usuario antes de usarlas en una consulta SQL. También es recomendable utilizar consultas preparadas o sentencias parametrizadas en lugar de concatenar entradas de usuario directamente en una consulta SQL.
 
   ##### 		XSS (Cross-Site Scripting)
 
-​		 El XSS es un tipo de ataque en el que un atacante injecta código malintencionado en una página web, que luego ejecuta código malicioso en el navegador de un usuario que visita la página web.
+El XSS es un tipo de ataque en el que un atacante injecta código malintencionado en una página web, que luego ejecuta código malicioso en el navegador de un usuario que visita la página web.
 
-​		 Para proteger contra el XSS, es importante validar y escapar todas las entradas de usuario antes de incluirlas en una página web. También es recomendable utilizar una biblioteca o marco de trabajo seguro que proporcione funciones integradas para la validación y escapado de entrada.
+Para proteger contra el XSS, es importante validar y escapar todas las entradas de usuario antes de incluirlas en una página web. También es recomendable utilizar una biblioteca o marco de trabajo seguro que proporcione funciones integradas para la validación y escapado de entrada.
 
- 		En conclusión, comprender y proteger contra ataques de inyección SQL y XSS es esencial en la seguridad en el nivel de aplicación para garantizar la seguridad de las aplicaciones web y los datos que se almacenan y procesan en ellas.
+En conclusión, comprender y proteger contra ataques de inyección SQL y XSS es esencial en la seguridad en el nivel de aplicación para garantizar la seguridad de las aplicaciones web y los datos que se almacenan y procesan en ellas.
 
 ## Nivel Intermedio
 #### Seguridad en el nivel de red: protección contra ataques de red como escaneo de puertos, sniffing y DDoS
