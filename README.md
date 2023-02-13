@@ -1,6 +1,6 @@
 # Plan de Estudios: Seguridad Cibernética
 
-![Zhack el aprendiz del hack](/home/rx/Imágenes/Zhack.webp)
+![Zhack el aprendiz del hack](https://odysee.com/@wanderos:4/zhack_primer_mascota:5)
 
 ## Introducción
 
