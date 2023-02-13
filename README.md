@@ -2,6 +2,22 @@
 
 ![Zhack el aprendiz del hack](/home/rx/Imágenes/Zhack.webp)
 
+## Introducción
+
+La ciberseguridad es una de las áreas más importantes y en constante evolución en la tecnología de la información. Como estudiante de ciberseguridad, es fundamental tener un camino claro y estructurado para alcanzar el éxito en la industria. Este documento presenta un recorrido detallado desde el nivel básico hasta el nivel avanzado para convertirse en un profesional de la ciberseguridad.
+
+A través de los tres niveles, se abordarán temas esenciales para el entendimiento de la ciberseguridad, como la introducción a los conceptos básicos y la terminología, la comprensión de los sistemas operativos como Windows y Linux, la protección contra ataques en el nivel de aplicación y en el nivel de red, el conocimiento sobre sistemas de autenticación y autorización, el cifrado, la seguridad en la nube, entre otros.
+
+Este documento es una guía completa para aquellos que quieran iniciar su carrera en el mundo de la ciberseguridad, y brinda las herramientas y conocimientos necesarios para convertirse en un verdadero profesional en esta área vital y en demanda. ¡Comencemos el camino hacia el éxito en la ciberseguridad!
+
+Es importante destacar que este documento es solo una guía que indica el camino que se debe seguir en la carrera de ciberseguridad. No es un manual completo ni un curso exhaustivo sobre ciberseguridad, por lo que se requiere del esfuerzo y dedicación del lector para investigar y profundizar en los diferentes temas. El objetivo de este documento es proporcionar un marco de referencia para el aprendizaje y el desarrollo de habilidades en la ciberseguridad, y es responsabilidad del lector complementar su conocimiento y aplicar sus habilidades prácticas para convertirse en un experto en esta área. ¡Siga explorando y aprendiendo, y alcance su máximo potencial en la ciberseguridad!
+
+---
+
+Recomiendo complementar este plan de estudios con la práctica y la participación en proyectos relacionados con seguridad cibernética. También es importante mantenerse actualizado sobre las últimas tendencias y amenazas en la seguridad cibernética, lo cual se puede lograr a través de la lectura de blogs y la asistencia a conferencias y talleres relacionados.
+
+Espero que este plan de estudios le ayude a alcanzar sus objetivos de aprendizaje en seguridad cibernética. ¡Buena suerte en tu camino!
+
 ## Nivel Básico
 
 #### Introducción a la seguridad cibernética: conceptos básicos y terminología
@@ -213,6 +229,7 @@ Para proteger los datos en la nube, es importante implementar las siguientes med
 En resumen, la seguridad en la nube es un aspecto crítico que requiere un enfoque proactivo y una gestión rigurosa para garantizar la protección de los datos alojados en la nube.
 
 ## Nivel Avanzado
+
 #### Seguridad de la información: comprensión de la gestión de la seguridad de la información y cómo proteger los datos confidenciales
 
 1. Conocimiento de las normativas y regulaciones relevantes: Es importante estar familiarizado con las normativas y regulaciones que rigen la protección de datos, como la GDPR y la Ley de Protección de Datos de California, entre otras.
@@ -231,16 +248,110 @@ En resumen, la seguridad en la nube es un aspecto crítico que requiere un enfoq
 
 8. Conocimiento de la evaluación periódica de la seguridad: Es importante estar familiarizado con las mejores prácticas para evaluar periódicamente la seguridad de la información y abordar cualquier debilidad o problema.
 
-En resumen, un experto en ciberseguridad debe tener una comprensión sólida de las normativas y regulaciones, los riesgos de seguridad, las téc
+En resumen, un experto en ciberseguridad debe tener una comprensión sólida de las normativas y regulaciones, los riesgos de seguridad, las técnicas de protección y las últimas amenazas en el mundo cibernético. Además, debe ser capaz de identificar y solucionar problemas de seguridad, implementar medidas preventivas y brindar asesoramiento a los usuarios para ayudarlos a mantener un entorno seguro en línea. La ciberseguridad es una responsabilidad constante y un experto en este campo debe estar en constante actualización y formación para mantenerse al tanto de las últimas tendencias y amenazas.
 
 #### Exploits y vulnerabilidades: comprensión de cómo funcionan los exploits y cómo identificar y corregir las vulnerabilidades
-============================
+
+Un **exploit** es un código o programa malicioso diseñado para aprovechar una vulnerabilidad en un sistema o aplicación. Los explotits son utilizados por los atacantes para ganar acceso no autorizado a sistemas, robar información confidencial o dañar datos.
+
+##### Principales Lenguajes para Desarrollar Exploits
+
+Los exploits se pueden desarrollar en una amplia variedad de lenguajes de programación, pero algunos de los lenguajes más comunes utilizados para crear exploits incluyen:
+
+- Assembly 
+- Ruby
+- C 
+- JavaScript
+- C++ 
+- Python
+- Perl 
+- Bash
+
+Sin embargo, no todos los lenguajes de programación son iguales para desarrollar exploits. Algunos lenguajes, como Assembly y C, son más eficaces para crear exploits debido a su bajo nivel de abstracción y control directo del hardware. Otros lenguajes, como Python y JavaScript, son menos comunes para crear exploits debido a su enfoque en la facilidad de uso y la portabilidad.
+
+Es importante destacar que los exploits no son exclusivos de ningún lenguaje de programación y que cualquier sistema o aplicación puede ser vulnerable, independientemente del lenguaje de programación utilizado para desarrollarlo.
+
+Por otro lado, una **vulnerabilidad** es un fallo en el diseño o implementación de un sistema o aplicación que permite a los atacantes explotarlo y acceder a información confidencial o realizar acciones maliciosas. Las vulnerabilidades pueden ser causadas por errores en el código, configuraciones inseguras o falta de parches de seguridad.
+
+Los explots funcionan al buscar y aprovechar una vulnerabilidad en un sistema o aplicación. Una vez que un atacante ha identificado una vulnerabilidad, puede crear un código malicioso que aproveche esa vulnerabilidad y gane acceso no autorizado al sistema o robar información.
+
+Para identificar y corregir vulnerabilidades, es importante realizar pruebas de penetración en el sistema y aplicaciones para encontrar posibles puntos débiles. También es importante mantener todo el software al día con las últimas actualizaciones y parches de seguridad, así como implementar políticas de seguridad sólidas y educar a los usuarios sobre la importancia de la seguridad en línea.
+
+Las **pruebas de penetración** son una forma de evaluar la seguridad de un sistema o aplicación informática, identificando las vulnerabilidades y evaluando la eficacia de las medidas de seguridad existentes. Aquí te menciono algunos tipos de pruebas de penetración que puedes considerar:
+
+1. Pruebas de escaneo: Este tipo de prueba se enfoca en escanear y mapear el sistema o aplicación a nivel de red y aplicación, identificando posibles puertos abiertos, servicios en ejecución y otros detalles de la infraestructura.
+
+2. Pruebas de vulnerabilidades: Aquí se enfocan en buscar y explotar las vulnerabilidades identificadas en las pruebas de escaneo, para determinar el alcance de la exposición de los datos y el impacto potencial en la seguridad.
+
+3. Pruebas de autenticación y autorización: En esta etapa se evalúa la seguridad de los sistemas de autenticación y autorización, para determinar si se están implementando adecuadamente y para identificar posibles debilidades que permitan el acceso no autorizado.
+
+4. Pruebas de privacidad: Aquí se evalúan las políticas y prácticas de privacidad, para determinar si se están protegiendo adecuadamente los datos sensibles y si se están cumpliendo los requisitos legales y reguladores.
+
+5. Pruebas sociales: Este tipo de prueba simula ataques basados en ingeniería social, para evaluar la capacidad de los empleados de detectar y responder a amenazas realistas y para identificar posibles debilidades en las políticas y prácticas de seguridad.
+
+**Nota importante:** Las pruebas de penetración deben realizarse por profesionales capacitados y experimentados, ya que pueden tener impacto en la disponibilidad y integridad de los sistemas y datos. Además, es importante obtener el consentimiento y autorización adecuados antes de llevar a cabo cualquier prueba de penetración.
+
 #### Seguridad en IoT: comprensión de los desafíos de seguridad en el Internet de las cosas y cómo proteger los dispositivos IoT
-============================
+
+La seguridad en IoT (Internet de las cosas) es un tema crítico que se refiere a la protección de los dispositivos IoT y los datos que transmiten. IoT es un sistema interconectado de dispositivos que recopilan y transmiten información a través de internet, y estos dispositivos tienen la capacidad de ser vulnerables a ataques y amenazas en línea.
+
+##### Desafíos de seguridad en IoT
+
+- Vulnerabilidades en los dispositivos: los dispositivos IoT a menudo tienen vulnerabilidades de seguridad debido a la falta de actualizaciones de software y la falta de seguridad integrada en su diseño.
+
+- Hackeo de dispositivos: los atacantes pueden hackear dispositivos IoT y utilizarlos para llevar a cabo ataques en otros dispositivos o robar información confidencial.
+
+- Intercepción de datos: los atacantes pueden interceptar los datos transmitidos por dispositivos IoT y utilizarlos para fines malintencionados.
+
+- Ataques DDoS: los atacantes pueden utilizar dispositivos IoT infectados para llevar a cabo ataques DDoS (Denegación de servicio distribuido) que pueden hacer que los sitios web o servicios en línea sean inaccesibles.
+
+##### Cómo proteger los dispositivos IoT
+
+- Actualizar regularmente el software de los dispositivos IoT.
+
+- Cambiar las contraseñas predeterminadas por contraseñas seguras y únicas.
+
+- Habilitar la autenticación de dos factores.
+
+- Utilizar una red privada virtual (VPN) para proteger la transmisión de datos.
+
+##### Programas gratuitos para estudiar y trabajar en seguridad en IoT
+
+- Zmap: es un escáner de puertos de código abierto que permite escanear grandes cantidades de direcciones IP en busca de dispositivos IoT vulnerables.
+- Wireshark: es un analizador de tráfico de red que permite ver y analizar los paquetes de datos transmitidos por dispositivos IoT.
+- IoT Inspector: es una herramienta de seguridad IoT de código abierto que permite escanear dispositivos IoT y identificar vulnerabilidades de seguridad.
+
 #### Seguridad en sistemas distribuidos: comprensión de los desafíos de seguridad en sistemas distribuidos y cómo protegerlos
-============================
 
-Recomiendo complementar este plan de estudios con la práctica y la participación en proyectos relacionados con seguridad cibernética. También es importante mantenerse actualizado sobre las últimas tendencias y amenazas en la seguridad cibernética, lo cual se puede lograr a través de la lectura de blogs y la asistencia a conferencias y talleres relacionados.
+La seguridad en sistemas distribuidos se refiere a la protección de los sistemas informáticos distribuidos contra posibles amenazas y ataques. Los sistemas distribuidos consisten en múltiples componentes que trabajan juntos para proporcionar un servicio o realizar una tarea específica, y estos componentes pueden estar ubicados en diferentes partes del mundo.
 
-Espero que este plan de estudios te ayude a alcanzar tus objetivos de aprendizaje en seguridad cibernética. ¡Buena suerte en tu camino!
+La seguridad en sistemas distribuidos es un desafío, ya que estos sistemas son más complejos y heterogéneos que los sistemas centralizados, lo que dificulta la protección contra posibles ataques. Además, la distribución geográfica de los componentes de un sistema distribuido puede hacer que sea más difícil detectar y responder a posibles amenazas de seguridad.
+
+Para proteger los sistemas distribuidos, es importante implementar medidas de seguridad en cada componente, así como en la infraestructura que conecta los componentes. Estas medidas pueden incluir el cifrado de la información, la autenticación de usuarios y dispositivos, la detección de intrusiones y la gestión de incidentes de seguridad. Además, es importante mantener actualizados los sistemas y aplicaciones, y realizar pruebas regulares de seguridad para detectar posibles vulnerabilidades y corregirlas antes de que sean explotadas por atacantes.
+
+##### Desafíos de seguridad en sistemas distribuidos
+
+- Ataques de denegación de servicio: los atacantes pueden sobrecargar un sistema distribuido, lo que resulta en una interrupción del servicio para los usuarios legítimos.
+
+- Fraude en la red: los atacantes pueden interceptar y modificar los datos transmitidos en la red, lo que resulta en una falsificación de información.
+
+- Vulnerabilidades de seguridad en el software: los sistemas distribuidos a menudo utilizan software que puede tener vulnerabilidades de seguridad, lo que puede permitir a los atacantes acceder a información confidencial o controlar el sistema.
+
+- Fraude en el acceso: los atacantes pueden acceder a un sistema distribuido mediante el uso de contraseñas o autenticación débil.
+
+##### Cómo proteger los sistemas distribuidos
+
+- Implementar medidas de seguridad en la red, como firewall, cifrado y autenticación fuerte.
+
+- Realizar monitoreo y supervisión continua de la red para detectar y prevenir ataques.
+
+- Mantener actualizado el software utilizado en el sistema distribuido.
+
+- Educar a los usuarios sobre la importancia de la seguridad y cómo proteger sus credenciales de acceso.
+
+##### Programas gratuitos para estudiar y trabajar en seguridad en sistemas distribuidos
+
+- Snort: es una plataforma de detección de intrusos de código abierto que se utiliza para monitorear y proteger las redes.
+- Suricata: es una plataforma de detección de intrusiones y prevención de intrusiones de código abierto. 
+- OSSEC: OSSEC (Open Source Security) es un sistema de detección y respuesta a incidentes de código abierto. Se utiliza para monitorear y proteger las redes y sistemas contra posibles ataques y amenazas de seguridad.
 
